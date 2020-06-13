@@ -4,3 +4,6 @@ p :first-letter{
   p :first-line{ 
     color:green;
   }
+  p :after{ 
+    content:"Hola";
+  }
